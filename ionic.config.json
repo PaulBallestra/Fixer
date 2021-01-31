@@ -1,0 +1,7 @@
+{
+  "name": "Fixer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
