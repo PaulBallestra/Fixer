@@ -15,7 +15,7 @@
                         <ion-select-option v-for="(currency, name) in currencies" :key="currency" :value="currency">{{name}}</ion-select-option>
                     </ion-select>
                 </ion-item>
-                <ion-button expand="block" v-on:click="convertEurosIntoDevise" class="mt-2"> € Convert € </ion-button>
+                <ion-button expand="block" v-on:click="convertEurosIntoDevise" class="mt-2"> 💸 Convert 💰</ion-button>
             </form>
 
         </div>
