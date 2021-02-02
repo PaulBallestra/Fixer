@@ -2,7 +2,7 @@
     <ion-page>
         <ion-header :translucent="true">
             <ion-toolbar>
-                <ion-title class="ion-text-center"> Fixer App </ion-title>
+                <ion-title class="ion-text-center"> 🤑 Fixer App 🤑</ion-title>
             </ion-toolbar>
         </ion-header>
 
